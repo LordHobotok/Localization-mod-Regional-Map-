@@ -1,0 +1,11 @@
+Items_ES = {
+	DisplayName_Regional_Map = "Mapa Regional",
+	DisplayName_Cartography_Magazine = "Revista de Cartografía",
+	DisplayName_Homemade_Map_Riverside = "Mapa Casero de Riverside",
+	DisplayName_Louisiana_Map = "Mapa de Louisiana"
+	DisplayName_ = "",
+	DisplayName_ = "",
+	DisplayName_ = "",
+	DisplayName_ = "",
+	DisplayName_ = "",
+	}

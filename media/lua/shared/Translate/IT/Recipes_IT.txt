@@ -1,0 +1,8 @@
+Recipe_IT = {
+	Recipe_Make_Regional_Map = "Crea Mappa Regionale",
+	Recipe_Make_Regional_Map2 = "Crea Mappa Regionale",
+	Recipe_Make_Homemade_Map_Riverside = "Disegna una mappa di Riverside",
+	Recipe_Make_Homemade_Map_Riverside2 = "Disegna una mappa di Riverside",
+	Recipe_Make_Make_The_Island_Map = "Crea una mappa dell'isola Midway",
+	Recipe_Make_Make_The_Island_Map2 = "Crea una mappa dell'isola Midway",
+}

@@ -1,0 +1,10 @@
+Items_IT = {
+	DisplayName_Regional_Map = "Mappa Regionale",
+	DisplayName_Cartography_Magazine = "Rivista Cartografica",
+	DisplayName_Homemade_Map_Riverside = "Mappa fatta in casa di Riverside",
+	DisplayName_The_Midway_Island_Map = "La Mappa dell' Isola Midway",
+	DisplayName_ = "",
+	DisplayName_ = "",
+	DisplayName_ = "",
+	DisplayName_ = "",
+	}

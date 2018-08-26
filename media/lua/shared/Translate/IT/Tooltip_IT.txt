@@ -1,0 +1,6 @@
+Tooltip_IT = {
+	Tooltip_item_RegionMap	=	"Ti aiutera' a non perderti durante i tuoi lunghi viaggi.",
+	Tooltip_item_RegionalMapMag = "Mappe piu' accurate possono essere utili.",
+	Tooltip_item_RiversideNewMap = "Beh ... La mia mappa è chiaramente migliore",
+	Tooltip_item_TheIslandMapNew = "",
+}

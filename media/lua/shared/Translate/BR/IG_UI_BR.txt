@@ -1,0 +1,3 @@
+IGUI_BR = {
+	IGUI_CraftCategory_Cartography = "Cartografia",
+}

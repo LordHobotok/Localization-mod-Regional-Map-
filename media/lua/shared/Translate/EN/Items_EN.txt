@@ -1,0 +1,10 @@
+Items_EN = {
+	DisplayName_Regional_Map = "Regional Map",
+	DisplayName_Cartography_Magazine = "Cartography Magazine",
+	DisplayName_Homemade_Map_Riverside = "Homemade Map Riverside",
+	DisplayName_The_Midway_Island_Map = "The Midway Island Map",
+	DisplayName_Louisiana_Map = "Louisiana Map",
+	DisplayName_ = "",
+	DisplayName_ = "",
+	DisplayName_ = "",
+	}

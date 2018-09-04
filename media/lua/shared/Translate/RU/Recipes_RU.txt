@@ -7,5 +7,8 @@ Recipe_RU = {
 	Recipe_Make_Make_The_Island_Map2 = "Нарисовать Карту Острова Мидвэй",
 	Recipe_Make_Louisiana_Map = "Нарисовать Карту Лаузианы",
 	Recipe_Make_Louisiana_Map2 = "Нарисовать Карту Лаузианы",
+	Recipe_Make_West_Point_Quarantine_Border_Map = "Нарисовать Карту Карантинной Зоны ВестПоинта",
+	Recipe_Make_West_Point_Quarantine_Border_Map2 = "Нарисовать Карту Карантинной Зоны ВестПоинта",
+	Recipe_ = "",
 	Recipe_ = "",
 }

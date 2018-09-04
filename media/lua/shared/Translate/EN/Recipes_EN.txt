@@ -7,5 +7,7 @@ Recipe_EN = {
 	Recipe_Make_Make_The_Island_Map2 = "Make The Midway Island Map",
 	Recipe_Make_Louisiana_Map = "Make Louisiana Map",
 	Recipe_Make_Louisiana_Map2 = "Make Louisiana Map",
+	Recipe_Make_West_Point_Quarantine_Border_Map = "Make West Point Quarantine Border Map",
+	Recipe_Make_West_Point_Quarantine_Border_Map2 = "Make West Point Quarantine Border Map",
 	Recipe_ = "",
 }

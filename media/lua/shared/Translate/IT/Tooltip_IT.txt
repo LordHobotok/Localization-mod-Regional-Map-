@@ -3,4 +3,6 @@ Tooltip_IT = {
 	Tooltip_item_RegionalMapMag = "Mappe piu' accurate possono essere utili.",
 	Tooltip_item_RiversideNewMap = "Beh ... La mia mappa è chiaramente migliore",
 	Tooltip_item_TheIslandMapNew = "",
+	Tooltip_item_LouisianaNewMap = "",
+	Tooltip_item_WestPointQuarantineBorderNewMap = "Forse troverò la salvezza qui?"
 }

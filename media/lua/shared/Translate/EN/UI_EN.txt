@@ -1,0 +1,8 @@
+UI_EN = {
+	UI_prof_Cartographer = "Cartographer"
+	UI_profdesc_Cartographer = "Can draw a map with labels",
+	UI_trait_Masterofmaps = "Master of Maps",
+	UI_trait_Masterofmapsdesc = "Master of Maps",
+	UI_trait_traitNovicecartographer = "Novice Cartographer",
+	UI_trait_traitNovicecartographerdesc = "Novice Cartographer",
+}

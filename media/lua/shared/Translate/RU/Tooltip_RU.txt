@@ -5,4 +5,5 @@ Tooltip_RU = {
 	Tooltip_item_TheIslandMapNew = "",
 	Tooltip_item_LouisianaNewMap = "",
 	Tooltip_item_WestPointQuarantineBorderNewMap = "ћожет быть здесь € найду спасение?",
+	Tooltip_item_KnoxNewMap = "’од€т слухи, что именно здесь все и началось...",
 }

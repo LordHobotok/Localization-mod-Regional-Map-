@@ -1,8 +1,9 @@
 UI_ES = {
-	UI_prof_Cartographer = "Cartographer"
-	UI_profdesc_Cartographer = "Can draw a map with labels",
-	UI_trait_Masterofmaps = "Master of Maps",
-	UI_trait_Masterofmapsdesc = "Master of Maps",
-	UI_trait_traitNovicecartographer = "Novice Cartographer",
-	UI_trait_traitNovicecartographerdesc = "Novice Cartographer",
+	Tooltip_item_RegionMap	=	"Te ayudará a no perderte en tus largos viajes",
+	Tooltip_item_RegionalMapMag = "Un mapa preciso puede ser muy útil",
+	Tooltip_item_RiversideNewMap = "Bueno... Mi mapa es claramente mejor",
+	Tooltip_item_TheIslandMapNew = "Bueno... Mi mapa es claramente mejor",
+	Tooltip_item_LouisianaNewMap = "Bueno... Mi mapa es claramente mejor",
+	Tooltip_item_WestPointQuarantineBorderNewMap = "¿Puede que encuentre la salvación aquí?"
+	Tooltip_item_KnoxNewMap = "Los rumores apuntan a que todo comenzó en este lugar...",
 }

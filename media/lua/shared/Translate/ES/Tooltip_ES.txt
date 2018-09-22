@@ -1,7 +1,9 @@
 Tooltip_ES = {
-	Tooltip_item_RegionMap	=	"Te ayudar� a no perderte en tus largos viajes",
-	Tooltip_item_RegionalMapMag = "Un mapa preciso puede ser muy �til",
+	Tooltip_item_RegionMap	=	"Te ayudará a no perderte en tus largos viajes",
+	Tooltip_item_RegionalMapMag = "Un mapa preciso puede ser muy útil",
 	Tooltip_item_RiversideNewMap = "Bueno... Mi mapa es claramente mejor",
 	Tooltip_item_TheIslandMapNew = "Bueno... Mi mapa es claramente mejor",
 	Tooltip_item_LouisianaNewMap = "Bueno... Mi mapa es claramente mejor",
+	Tooltip_item_WestPointQuarantineBorderNewMap = "¿Puede que encuentre la salvación aquí?"
+	Tooltip_item_KnoxNewMap = "Los rumores apuntan a que todo comenzó en este lugar...",
 }

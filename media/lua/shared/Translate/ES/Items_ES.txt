@@ -1,8 +1,15 @@
 Items_ES = {
 	DisplayName_Regional_Map = "Mapa Regional",
-	DisplayName_Cartography_Magazine = "Revista de Cartografía",
-	DisplayName_Homemade_Map_Riverside = "Mapa Casero de Riverside",
+	DisplayName_Cartography_Magazine = "Revista de CartografÃ­a",
+	DisplayName_Homemade_Map_Riverside = "Mapa de Riverside (Casero)",
+	DisplayName_The_Midway_Island_Map = "Mapa de Isla Midway (Casero)",
+	DisplayName_Midway_Island_Map = "Mapa de Isla Midway",
+	DisplayName_Homemade_Louisiana_Map = "Mapa de Louisiana (Casero)",
 	DisplayName_Louisiana_Map = "Mapa de Louisiana"
+	DisplayName_Homemade_West_Point_Quarantine_Border_Map = "Mapa de la Frontera de Cuarentena de West Point (Casero)",
+	DisplayName_West_Point_Quarantine_Border_Map = "Mapa de la Frontera de Cuarentena de West Point",
+	DisplayName_Knox_Map = "Mapa de Knox",
+	DisplayName_Homemade_Knox_Map = "Mapa de Knox (Casero)",
 	DisplayName_ = "",
 	DisplayName_ = "",
 	DisplayName_ = "",

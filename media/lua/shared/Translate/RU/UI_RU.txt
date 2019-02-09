@@ -3,6 +3,6 @@ UI_RU = {
 	UI_profdesc_Cartographer = "Может рисовать карты с метками",
 	UI_trait_Masterofmaps = "Мастер по Картам",
 	UI_trait_Masterofmapsdesc = "Рисует карты с метками",
-	UI_trait_Novicecartographer = "Новичек Картограф",
+	UI_trait_Novicecartographer = "Новичок Картограф",
 	UI_trait_Novicecartographerdesc = "Может нарисовать хорошие карты",
 }

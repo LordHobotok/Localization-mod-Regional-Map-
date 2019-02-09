@@ -2,8 +2,9 @@ Tooltip_RU = {
 	Tooltip_item_RegionMap	=	"Поможет не потеряться в дальних путешествиях.",
 	Tooltip_item_RegionalMapMag = "Более точные карты могут быть полезны",
 	Tooltip_item_RiversideNewMap = "Ну... Моя карта явно лучше",
-	Tooltip_item_TheIslandMapNew = "",
+	Tooltip_item_TheIslandMapNew = "Мой отпуск! Здесь?! Блять!",
 	Tooltip_item_LouisianaNewMap = "",
 	Tooltip_item_WestPointQuarantineBorderNewMap = "Может быть здесь я найду спасение?",
 	Tooltip_item_KnoxNewMap = "Ходят слухи, что именно здесь все и началось...",
+	Tooltip_item_BedfordFallsNewMap = "Добро пожаловать в Ад?! Нет... Просто "Райский уголок"",
 }

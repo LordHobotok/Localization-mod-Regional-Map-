@@ -10,6 +10,13 @@ Items_EN = {
 	DisplayName_West_Point_Quarantine_Border_Map = "West Point Quarantine Border Map",
 	DisplayName_Knox_Map = "Knox Map",
 	DisplayName_Homemade_Knox_Map = "Knox Map (Homemade)",
+	DisplayName_Dividers = "Dividers",
+	DisplayName_Sketches = "Sketches",
+	DisplayName_Plan = "Plan",
+	DisplayName_Graphite = "Graphite",
+	DisplayName_Straightedge = "Straightedge",
+	DisplayName_Bedford_Falls_Map = "Bedford Falls Map",
+	DisplayName_Homemade_Bedford_Falls_Map = "Bedford Falls Map (Homemade)",
 	DisplayName_ = "",
 	DisplayName_ = "",
 	}

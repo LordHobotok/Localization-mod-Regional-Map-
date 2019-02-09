@@ -29,5 +29,8 @@ Recipe_EN = {
 	Recipe_Make_Louisiana_Map2 = "Make Louisiana Map (Simple)",
 	Recipe_Make_Midway_Island_Map = "Make The Midway Island Map (Simple)",
 	Recipe_Make_Midway_Island_Map2 = "Make The Midway Island Map (Simple)",
-	Recipe_ = "",
+	Recipe_Make_Bedford_Falls_Map = "Make Bedford Falls Map (Simple)",
+	Recipe_Make_Bedford_Falls_Map2 = "Make Bedford Falls Map (Simple)",
+	Recipe_Make_Homemade_Bedford_Falls_Map = "Make Bedford Falls Map (Isometric)",
+	Recipe_Make_Homemade_Bedford_Falls_Map2 = "Make Bedford Falls Map ิเ๋๑ (Isometric)",
 }

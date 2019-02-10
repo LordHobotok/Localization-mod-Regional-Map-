@@ -1,0 +1,9 @@
+Tooltip_DE = {
+	Tooltip_item_RegionMap	=	"Wird dir Helfen dich nicht zu verlaufen.",
+	Tooltip_item_RegionalMapMag = "Genaue Karten sind nuetzlich.",
+	Tooltip_item_RiversideNewMap = "Also ... Meine Karte ist eindeutig besser.",
+	Tooltip_item_TheIslandMapNew = "",
+	Tooltip_item_LouisianaNewMap = "",
+	Tooltip_item_WestPointQuarantineBorderNewMap = "Finde ich hier moeglicherweisse die Rettung?"
+	Tooltip_item_KnoxNewMap = "Es gibt Geruechte das es hier war wo alles begann ...",
+}

@@ -1,0 +1,8 @@
+UI_DE = {
+	UI_prof_Cartographer = "Kartograph"
+	UI_profdesc_Cartographer = "Kann eine Karte mit Informationen Zeichnen",
+	UI_trait_Masterofmaps = "Meister der Karten",
+	UI_trait_Masterofmapsdesc = "Meister der Karten",
+	UI_trait_traitNovicecartographer = "Anfaenger Kartograph",
+	UI_trait_traitNovicecartographerdesc = "Anfaenger Kartograph",
+}

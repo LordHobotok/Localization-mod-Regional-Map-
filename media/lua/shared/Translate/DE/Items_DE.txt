@@ -1,0 +1,15 @@
+Items_DE = {
+	DisplayName_Regional_Map = "Regional Karte",
+	DisplayName_Cartography_Magazine = "Kartographie Magazin",
+	DisplayName_Homemade_Map_Riverside = "Karte von Riverside (selbst gefertigt)",
+	DisplayName_The_Midway_Island_Map = "Karte der Midway Insel (selbst gefertigt)",
+	DisplayName_Midway_Island_Map = "Karte der Midway Insel",
+	DisplayName_Homemade_Louisiana_Map = "Karte von Louisiana (selbst gefertigt)",
+	DisplayName_Louisiana_Map = "Karte von Louisiana",
+	DisplayName_Homemade_West_Point_Quarantine_Border_Map = "Karte der West Point Quarantäne Grenze (selbst gefertigt)",
+	DisplayName_West_Point_Quarantine_Border_Map = "Karte der West Point Quarantäne Grenze",
+	DisplayName_Knox_Map = "Karte von Knox",
+	DisplayName_Homemade_Knox_Map = "Karte von Knox (selbst gefertigt)",
+	DisplayName_ = "",
+	DisplayName_ = "",
+	}

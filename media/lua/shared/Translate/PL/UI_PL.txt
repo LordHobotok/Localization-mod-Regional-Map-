@@ -1,0 +1,8 @@
+UI_PL = {
+	UI_prof_Cartographer = "Kartograf"
+	UI_profdesc_Cartographer = "Potrafi tworzyć mapy i je opisywać.",
+	UI_trait_Masterofmaps = "Mistrz Map",
+	UI_trait_Masterofmapsdesc = "Potrafi tworzyć skomplikowane mapy z oznaczeniami.",
+	UI_trait_Novicecartographer = "Początkujący kartograf",
+	UI_trait_Novicecartographerdesc = "Może tworzyć proste mapy.",
+}

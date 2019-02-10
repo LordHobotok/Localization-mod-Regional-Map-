@@ -1,0 +1,10 @@
+Tooltip_PL = {
+	Tooltip_item_RegionMap	=	"Pomocna aby nie zgubić się w długiej podróży.",
+	Tooltip_item_RegionalMapMag = "Dokładniejsza mapa będzie bardziej przydatna.",
+	Tooltip_item_RiversideNewMap = "Cóż.. Moja mapa jest zdecydowanie lepsza.",
+	Tooltip_item_TheIslandMapNew = "Wakacje? Tutaj? Kurwa!",
+	Tooltip_item_LouisianaNewMap = "",
+	Tooltip_item_WestPointQuarantineBorderNewMap = "Może tutaj znajdę zbawienie?"
+	Tooltip_item_KnoxNewMap = "Wedle plotek, tutaj się wszystko zaczęło...",
+	Tooltip_item_BedfordFallsNewMap = "Witamy w "raju" na samym dnie piekielnych czeluści.",
+}

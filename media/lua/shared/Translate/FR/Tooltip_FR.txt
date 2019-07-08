@@ -5,4 +5,5 @@ Tooltip_FR = {
 	Tooltip_item_TheIslandMapNew = "Voilà ... Ma carte est carrément mieux",
 	Tooltip_item_LouisianaNewMap = "Voilà ... Ma carte est carrément mieux",
 	Tooltip_item_WestPointQuarantineBorderNewMap = "Peut-être trouverai-je le salut ici?"
+	Tooltip_item_KnoxNewMap = "Des rumeurs disent que tout a commencé ici ...",
 }

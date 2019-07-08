@@ -8,6 +8,8 @@ Items_FR = {
 	DisplayName_Louisiana_Map = "Carte de Louisiana",
 	DisplayName_Homemade_West_Point_Quarantine_Border_Map = "Carte de West Point Quarantine Border (Fait main)",
 	DisplayName_West_Point_Quarantine_Border_Map = "Carte de West Point Quarantine Border",
+	DisplayName_Knox_Map = "Carte de Knox",
+	DisplayName_Homemade_Knox_Map = "Carte de Knox (Fait main)",
 	DisplayName_ = "",
 	DisplayName_ = "",
 	}

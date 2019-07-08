@@ -1,0 +1,8 @@
+UI_FR = {
+	UI_prof_Cartographer = "Cartographe"
+	UI_profdesc_Cartographer = "Peut dessiner une carte avec des légendes",
+	UI_trait_Masterofmaps = "Maître des Cartes",
+	UI_trait_Masterofmapsdesc = "Maître des Cartes",
+	UI_trait_traitNovicecartographer = "Cartographe débutant",
+	UI_trait_traitNovicecartographerdesc = "Cartographe débutant",
+}

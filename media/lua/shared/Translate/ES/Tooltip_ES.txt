@@ -2,8 +2,9 @@ Tooltip_ES = {
 	Tooltip_item_RegionMap	=	"Te ayudará a no perderte en tus largos viajes",
 	Tooltip_item_RegionalMapMag = "Un mapa preciso puede ser muy útil",
 	Tooltip_item_RiversideNewMap = "Bueno... Mi mapa es claramente mejor",
-	Tooltip_item_TheIslandMapNew = "Bueno... Mi mapa es claramente mejor",
-	Tooltip_item_LouisianaNewMap = "Bueno... Mi mapa es claramente mejor",
+	Tooltip_item_TheIslandMapNew = "Mis vacaciones... ¡¿Aquí?! ¡Joder!",
+	Tooltip_item_LouisianaNewMap = "Campos, prisiones y zombies... sin duda, una excelente visita",
 	Tooltip_item_WestPointQuarantineBorderNewMap = "¿Puede que encuentre la salvación aquí?"
 	Tooltip_item_KnoxNewMap = "Los rumores apuntan a que todo comenzó en este lugar...",
+	Tooltip_item_BedfordFallsNewMap = "¿Bienvenido al Infierno...? si este lugar es el "Paraíso"",
 }

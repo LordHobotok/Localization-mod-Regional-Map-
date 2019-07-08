@@ -7,4 +7,5 @@ Tooltip_RU = {
 	Tooltip_item_WestPointQuarantineBorderNewMap = "Может быть здесь я найду спасение?",
 	Tooltip_item_KnoxNewMap = "Ходят слухи, что именно здесь все и началось...",
 	Tooltip_item_BedfordFallsNewMap = "Добро пожаловать в Ад?! Нет... Просто "Райский уголок"",
+	Tooltip_item_RegionNewMap = "?!”",
 }

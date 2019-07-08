@@ -1,8 +1,8 @@
 UI_EN = {
 	UI_prof_Cartographer = "Cartographer"
-	UI_profdesc_Cartographer = "Can draw cards with markers",
+	UI_profdesc_Cartographer = "He can draw maps with tags",
 	UI_trait_Masterofmaps = "Master of Maps",
-	UI_trait_Masterofmapsdesc = "Draws cards with markers",
+	UI_trait_Masterofmapsdesc = "Draws maps with markers",
 	UI_trait_Novicecartographer = "Novice Cartographer",
-	UI_trait_Novicecartographerdesc = "May draw good cards",
+	UI_trait_Novicecartographerdesc = "He can draw good maps",
 }

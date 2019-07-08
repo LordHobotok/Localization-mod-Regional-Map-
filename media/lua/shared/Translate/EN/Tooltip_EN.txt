@@ -1,10 +1,11 @@
 Tooltip_EN = {
 	Tooltip_item_RegionMap	=	"Will help you not to get lost in long journeys.",
 	Tooltip_item_RegionalMapMag = "More accurate maps can be useful.",
-	Tooltip_item_RiversideNewMap = "Well ... My map is clearly better",
-	Tooltip_item_TheIslandMapNew = "My vacation! Here!? Fuck!",
+	Tooltip_item_RiversideNewMap = "Well…My map is clearly better",
+	Tooltip_item_TheIslandMapNew = "My vacation! Here? Shittt!",
 	Tooltip_item_LouisianaNewMap = "",
-	Tooltip_item_WestPointQuarantineBorderNewMap = "Maybe I'll find salvation here?"
-	Tooltip_item_KnoxNewMap = "There are rumors that it was here that everything began ...",
-	Tooltip_item_BedfordFallsNewMap = "Welcome to Hell?! No...just "paradise place"",
+	Tooltip_item_WestPointQuarantineBorderNewMap = "Will... I find salvation here?"
+	Tooltip_item_KnoxNewMap = "It’s rumored that it was everything precisely began here...",
+	Tooltip_item_BedfordFallsNewMap = "Welcome to Hell?! No… Just “Paradisiacal place”",
+	Tooltip_item_RegionNewMap = "?!”",
 }

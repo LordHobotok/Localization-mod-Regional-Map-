@@ -1,0 +1,8 @@
+UI_CN = {
+	UI_prof_Cartographer = "地图绘制员"
+	UI_profdesc_Cartographer = "他能用标签画地图",
+	UI_trait_Masterofmaps = "地图大师",
+	UI_trait_Masterofmapsdesc = "绘制带标记的地图",
+	UI_trait_Novicecartographer = "制图新手",
+	UI_trait_Novicecartographerdesc = "他能画出好地图",
+}

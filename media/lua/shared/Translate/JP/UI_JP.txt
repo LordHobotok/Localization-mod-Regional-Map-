@@ -1,0 +1,8 @@
+UI_JP = {
+	UI_prof_Cartographer = "地図製作者"
+	UI_profdesc_Cartographer = "彼はタグで地図を描くことができます",
+	UI_trait_Masterofmaps = "地図の達人",
+	UI_trait_Masterofmapsdesc = "マーカーで地図を描く",
+	UI_trait_Novicecartographer = "新米地図製作者",
+	UI_trait_Novicecartographerdesc = "彼は良い地図を描くことができます",
+}

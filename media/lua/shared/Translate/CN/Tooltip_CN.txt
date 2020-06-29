@@ -1,0 +1,11 @@
+Tooltip_CN = {
+	Tooltip_item_RegionMap	=	"有助于你在长路漫漫中不迷失方向。",
+	Tooltip_item_RegionalMapMag = "更准确的地图会更有用。",
+	Tooltip_item_RiversideNewMap = "嗯…我的地图显然更好",
+	Tooltip_item_TheIslandMapNew = "我的假期！在这儿？他妈的！",
+	Tooltip_item_LouisianaNewMap = "我是谁？我在哪？我在干什么？",
+	Tooltip_item_WestPointQuarantineBorderNewMap = "我……能在这得救吗？"
+	Tooltip_item_KnoxNewMap = "据说一切都是从这里开始的……",
+	Tooltip_item_BedfordFallsNewMap = "欢迎来到地狱？！ 不……只是“天堂般的地方”",
+	Tooltip_item_RegionNewMap = "?!”",
+}

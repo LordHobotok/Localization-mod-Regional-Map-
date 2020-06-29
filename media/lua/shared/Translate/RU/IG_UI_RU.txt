@@ -1,3 +1,4 @@
 IGUI_RU = {
 	IGUI_CraftCategory_Cartography = "Картография",
+	IGUI_CraftCategory_Cartography+ = "Картография+",
 }
